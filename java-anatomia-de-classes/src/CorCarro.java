@@ -1,6 +1,6 @@
 public class CorCarro {
     public static void main(String[] args) {
-        var corCarro = "Branco";
+        var corCarro = "Azul";
         if(corCarro  == "Vermelho" )
             System.out.println("Vermelho");
         else if(corCarro=="Azul")
